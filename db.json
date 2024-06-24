@@ -1,0 +1,1330 @@
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "page",
+            "id": "f1f19391-4ea7-444f-b1aa-41c84143ea78",
+            "created_time": "2024-04-12T09:13:00.000Z",
+            "last_edited_time": "2024-04-12T09:13:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "065e3cb1-5359-4621-b91b-60235dd353c5"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "065e3cb1-5359-4621-b91b-60235dd353c5"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "bf687443-b55f-4707-a499-59f993389bd0"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Tag": {
+                    "id": "B_Zx",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4780aa63-a8a6-437e-ba77-3a2469fd0035",
+                            "name": "Git",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "Image": {
+                    "id": "D%3FXZ",
+                    "type": "files",
+                    "files": []
+                },
+                "Back": {
+                    "id": "FPK%3E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "1. A local branch that has never been pushed<br>2. A local branch that's been pushed <strong>and</strong> no one else has worked on ",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "1. A local branch that has never been pushed<br>2. A local branch that's been pushed <strong>and</strong> no one else has worked on ",
+                            "href": null
+                        }
+                    ]
+                },
+                "Front": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "When can you safely rebase?",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "When can you safely rebase?",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/When-can-you-safely-rebase-f1f193914ea7444fb1aa41c84143ea78",
+            "public_url": "https://gabrielserranomelo.notion.site/When-can-you-safely-rebase-f1f193914ea7444fb1aa41c84143ea78"
+        },
+        {
+            "object": "page",
+            "id": "4cce13f0-0187-452e-aa9a-67379607d712",
+            "created_time": "2024-04-12T02:41:00.000Z",
+            "last_edited_time": "2024-04-12T02:41:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "065e3cb1-5359-4621-b91b-60235dd353c5"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "065e3cb1-5359-4621-b91b-60235dd353c5"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "bf687443-b55f-4707-a499-59f993389bd0"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Tag": {
+                    "id": "B_Zx",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4780aa63-a8a6-437e-ba77-3a2469fd0035",
+                            "name": "Git",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "Image": {
+                    "id": "D%3FXZ",
+                    "type": "files",
+                    "files": []
+                },
+                "Back": {
+                    "id": "FPK%3E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Stop the rebase process and go back to the state before the rebase",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Stop the rebase process and go back to the state before the rebase",
+                            "href": null
+                        }
+                    ]
+                },
+                "Front": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "git rebase --abort",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "git rebase --abort",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/git-rebase-abort-4cce13f00187452eaa9a67379607d712",
+            "public_url": "https://gabrielserranomelo.notion.site/git-rebase-abort-4cce13f00187452eaa9a67379607d712"
+        },
+        {
+            "object": "page",
+            "id": "1d5e0c09-baac-463c-ab3a-af74eecd6762",
+            "created_time": "2024-04-12T02:41:00.000Z",
+            "last_edited_time": "2024-04-12T02:41:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "065e3cb1-5359-4621-b91b-60235dd353c5"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "065e3cb1-5359-4621-b91b-60235dd353c5"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "bf687443-b55f-4707-a499-59f993389bd0"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Tag": {
+                    "id": "B_Zx",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4780aa63-a8a6-437e-ba77-3a2469fd0035",
+                            "name": "Git",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "Image": {
+                    "id": "D%3FXZ",
+                    "type": "files",
+                    "files": []
+                },
+                "Back": {
+                    "id": "FPK%3E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Continue with the rebase process after having resolved merge conflicts",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Continue with the rebase process after having resolved merge conflicts",
+                            "href": null
+                        }
+                    ]
+                },
+                "Front": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "git rebase --continue",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "git rebase --continue",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/git-rebase-continue-1d5e0c09baac463cab3aaf74eecd6762",
+            "public_url": "https://gabrielserranomelo.notion.site/git-rebase-continue-1d5e0c09baac463cab3aaf74eecd6762"
+        },
+        {
+            "object": "page",
+            "id": "1fe468b7-a07f-4789-9132-31b8f38a0ddc",
+            "created_time": "2024-04-12T02:35:00.000Z",
+            "last_edited_time": "2024-04-12T02:35:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "065e3cb1-5359-4621-b91b-60235dd353c5"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "065e3cb1-5359-4621-b91b-60235dd353c5"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "bf687443-b55f-4707-a499-59f993389bd0"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Tag": {
+                    "id": "B_Zx",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4780aa63-a8a6-437e-ba77-3a2469fd0035",
+                            "name": "Git",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "Image": {
+                    "id": "D%3FXZ",
+                    "type": "files",
+                    "files": []
+                },
+                "Back": {
+                    "id": "FPK%3E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Restore a file to another version of the file in the staging area",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Restore a file to another version of the file in the staging area",
+                            "href": null
+                        }
+                    ]
+                },
+                "Front": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "git restore --stage &lt;filename&gt;",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "git restore --stage &lt;filename&gt;",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/git-restore-stage-lt-filename-gt-1fe468b7a07f4789913231b8f38a0ddc",
+            "public_url": "https://gabrielserranomelo.notion.site/git-restore-stage-lt-filename-gt-1fe468b7a07f4789913231b8f38a0ddc"
+        },
+        {
+            "object": "page",
+            "id": "d12b2f2b-dfea-4f0d-affc-7208e75e4f26",
+            "created_time": "2024-04-12T02:18:00.000Z",
+            "last_edited_time": "2024-04-12T02:18:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "065e3cb1-5359-4621-b91b-60235dd353c5"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "065e3cb1-5359-4621-b91b-60235dd353c5"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "bf687443-b55f-4707-a499-59f993389bd0"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Tag": {
+                    "id": "B_Zx",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4780aa63-a8a6-437e-ba77-3a2469fd0035",
+                            "name": "Git",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "Image": {
+                    "id": "D%3FXZ",
+                    "type": "files",
+                    "files": []
+                },
+                "Back": {
+                    "id": "FPK%3E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Reapply commits on top of another branch",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Reapply commits on top of another branch",
+                            "href": null
+                        }
+                    ]
+                },
+                "Front": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "git rebase &lt;branch_name&gt;",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "git rebase &lt;branch_name&gt;",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/git-rebase-lt-branch_name-gt-d12b2f2bdfea4f0daffc7208e75e4f26",
+            "public_url": "https://gabrielserranomelo.notion.site/git-rebase-lt-branch_name-gt-d12b2f2bdfea4f0daffc7208e75e4f26"
+        },
+        {
+            "object": "page",
+            "id": "15abdd44-9799-4f6f-beb0-3c593ea10640",
+            "created_time": "2024-04-08T19:15:00.000Z",
+            "last_edited_time": "2024-04-08T19:15:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "bf687443-b55f-4707-a499-59f993389bd0"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Tag": {
+                    "id": "B_Zx",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4780aa63-a8a6-437e-ba77-3a2469fd0035",
+                            "name": "Git",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "Image": {
+                    "id": "D%3FXZ",
+                    "type": "files",
+                    "files": []
+                },
+                "Back": {
+                    "id": "FPK%3E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Stop the merge process and go back to the state before the merge",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Stop the merge process and go back to the state before the merge",
+                            "href": null
+                        }
+                    ]
+                },
+                "Front": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "git merge --abort",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "git merge --abort",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/git-merge-abort-15abdd4497994f6fbeb03c593ea10640",
+            "public_url": "https://gabrielserranomelo.notion.site/git-merge-abort-15abdd4497994f6fbeb03c593ea10640"
+        },
+        {
+            "object": "page",
+            "id": "1ae1f972-d929-4d52-bc16-3018871e7400",
+            "created_time": "2024-04-08T02:13:00.000Z",
+            "last_edited_time": "2024-04-08T02:13:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "bf687443-b55f-4707-a499-59f993389bd0"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Tag": {
+                    "id": "B_Zx",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4780aa63-a8a6-437e-ba77-3a2469fd0035",
+                            "name": "Git",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "Image": {
+                    "id": "D%3FXZ",
+                    "type": "files",
+                    "files": []
+                },
+                "Back": {
+                    "id": "FPK%3E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "If an upstream branch is defined for the current branch, fetch and integrate changes from\nthe defined upstream branch",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "If an upstream branch is defined for the current branch, fetch and integrate changes from\nthe defined upstream branch",
+                            "href": null
+                        }
+                    ]
+                },
+                "Front": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "git pull",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "git pull",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/git-pull-1ae1f972d9294d52bc163018871e7400",
+            "public_url": "https://gabrielserranomelo.notion.site/git-pull-1ae1f972d9294d52bc163018871e7400"
+        },
+        {
+            "object": "page",
+            "id": "1f4428ca-b9e7-4c71-b891-8e8646ac0fca",
+            "created_time": "2024-04-08T02:13:00.000Z",
+            "last_edited_time": "2024-04-08T02:13:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "bf687443-b55f-4707-a499-59f993389bd0"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Tag": {
+                    "id": "B_Zx",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4780aa63-a8a6-437e-ba77-3a2469fd0035",
+                            "name": "Git",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "Image": {
+                    "id": "D%3FXZ",
+                    "type": "files",
+                    "files": []
+                },
+                "Back": {
+                    "id": "FPK%3E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Fetch and integrate changes from the <shortname> remote repository for the specified\n<branch_name>",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Fetch and integrate changes from the <shortname> remote repository for the specified\n<branch_name>",
+                            "href": null
+                        }
+                    ]
+                },
+                "Front": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "git pull <shortname> <branch_name>",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "git pull <shortname> <branch_name>",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/git-pull-shortname-branch_name-1f4428cab9e74c71b8918e8646ac0fca",
+            "public_url": "https://gabrielserranomelo.notion.site/git-pull-shortname-branch_name-1f4428cab9e74c71b8918e8646ac0fca"
+        },
+        {
+            "object": "page",
+            "id": "c84f3508-8a4e-45f7-829f-aa9a651fbb7f",
+            "created_time": "2024-04-08T02:00:00.000Z",
+            "last_edited_time": "2024-04-08T02:34:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "bf687443-b55f-4707-a499-59f993389bd0"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Tag": {
+                    "id": "B_Zx",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4780aa63-a8a6-437e-ba77-3a2469fd0035",
+                            "name": "Git",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "Image": {
+                    "id": "D%3FXZ",
+                    "type": "files",
+                    "files": []
+                },
+                "Back": {
+                    "id": "FPK%3E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Define an upstream branch for the current local branch",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Define an upstream branch for the current local branch",
+                            "href": null
+                        }
+                    ]
+                },
+                "Front": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "git branch -u <shortname>/<branch_name>",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "git branch -u <shortname>/<branch_name>",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/git-branch-u-shortname-branch_name-c84f35088a4e45f7829faa9a651fbb7f",
+            "public_url": "https://gabrielserranomelo.notion.site/git-branch-u-shortname-branch_name-c84f35088a4e45f7829faa9a651fbb7f"
+        },
+        {
+            "object": "page",
+            "id": "276432ea-dd78-4fc9-b405-81d39c7e6210",
+            "created_time": "2024-04-08T01:54:00.000Z",
+            "last_edited_time": "2024-04-08T02:59:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "bf687443-b55f-4707-a499-59f993389bd0"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Tag": {
+                    "id": "B_Zx",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4780aa63-a8a6-437e-ba77-3a2469fd0035",
+                            "name": "Git",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "Image": {
+                    "id": "D%3FXZ",
+                    "type": "files",
+                    "files": []
+                },
+                "Back": {
+                    "id": "FPK%3E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Remove remote-tracking branches that correspond to deleted remote branches and download data from the remote repository",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Remove remote-tracking branches that correspond to deleted remote branches and download data from the remote repository",
+                            "href": null
+                        }
+                    ]
+                },
+                "Front": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "git fetch -p",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "git fetch -p",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/git-fetch-p-276432eadd784fc9b40581d39c7e6210",
+            "public_url": "https://gabrielserranomelo.notion.site/git-fetch-p-276432eadd784fc9b40581d39c7e6210"
+        },
+        {
+            "object": "page",
+            "id": "5093587e-991f-4517-af2b-f40989416186",
+            "created_time": "2024-04-08T01:49:00.000Z",
+            "last_edited_time": "2024-04-08T01:50:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "bf687443-b55f-4707-a499-59f993389bd0"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Tag": {
+                    "id": "B_Zx",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4780aa63-a8a6-437e-ba77-3a2469fd0035",
+                            "name": "Git",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "Image": {
+                    "id": "D%3FXZ",
+                    "type": "files",
+                    "files": []
+                },
+                "Back": {
+                    "id": "FPK%3E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Download data from the remote repository with shortname origin",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Download data from the remote repository with shortname origin",
+                            "href": null
+                        }
+                    ]
+                },
+                "Front": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "git fetch",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "git fetch",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/git-fetch-5093587e991f4517af2bf40989416186",
+            "public_url": "https://gabrielserranomelo.notion.site/git-fetch-5093587e991f4517af2bf40989416186"
+        },
+        {
+            "object": "page",
+            "id": "2f7f9db1-5d78-49c2-b4cd-21c6ddec35d8",
+            "created_time": "2024-04-08T01:41:00.000Z",
+            "last_edited_time": "2024-04-08T01:50:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "bf687443-b55f-4707-a499-59f993389bd0"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Tag": {
+                    "id": "B_Zx",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4780aa63-a8a6-437e-ba77-3a2469fd0035",
+                            "name": "Git",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "Image": {
+                    "id": "D%3FXZ",
+                    "type": "files",
+                    "files": []
+                },
+                "Back": {
+                    "id": "FPK%3E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Download data from the <shortname> remote repository",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Download data from the <shortname> remote repository",
+                            "href": null
+                        }
+                    ]
+                },
+                "Front": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "git fetch <shortname>",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "git fetch <shortname>",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/git-fetch-shortname-2f7f9db15d7849c2b4cd21c6ddec35d8",
+            "public_url": "https://gabrielserranomelo.notion.site/git-fetch-shortname-2f7f9db15d7849c2b4cd21c6ddec35d8"
+        },
+        {
+            "object": "page",
+            "id": "2b4b5322-06ee-4ad5-ac45-03ca6b636f74",
+            "created_time": "2024-04-08T01:27:00.000Z",
+            "last_edited_time": "2024-04-08T01:41:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "bf687443-b55f-4707-a499-59f993389bd0"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Tag": {
+                    "id": "B_Zx",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4780aa63-a8a6-437e-ba77-3a2469fd0035",
+                            "name": "Git",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "Image": {
+                    "id": "D%3FXZ",
+                    "type": "files",
+                    "files": []
+                },
+                "Back": {
+                    "id": "FPK%3E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Delete a local branch",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Delete a local branch",
+                            "href": null
+                        }
+                    ]
+                },
+                "Front": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "git branch -d <branch_name>",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "git branch -d <branch_name>",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/git-branch-d-branch_name-2b4b532206ee4ad5ac4503ca6b636f74",
+            "public_url": "https://gabrielserranomelo.notion.site/git-branch-d-branch_name-2b4b532206ee4ad5ac4503ca6b636f74"
+        },
+        {
+            "object": "page",
+            "id": "395a8a0e-8962-4d4c-992d-33e765024452",
+            "created_time": "2024-04-08T01:27:00.000Z",
+            "last_edited_time": "2024-04-08T01:40:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "bf687443-b55f-4707-a499-59f993389bd0"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Tag": {
+                    "id": "B_Zx",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4780aa63-a8a6-437e-ba77-3a2469fd0035",
+                            "name": "Git",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "Image": {
+                    "id": "D%3FXZ",
+                    "type": "files",
+                    "files": []
+                },
+                "Back": {
+                    "id": "FPK%3E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Delete a remote branch and the associated remote-tracking branch",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Delete a remote branch and the associated remote-tracking branch",
+                            "href": null
+                        }
+                    ]
+                },
+                "Front": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "git push <shortname> -d <branch_name>",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "git push <shortname> -d <branch_name>",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/git-push-shortname-d-branch_name-395a8a0e89624d4c992d33e765024452",
+            "public_url": "https://gabrielserranomelo.notion.site/git-push-shortname-d-branch_name-395a8a0e89624d4c992d33e765024452"
+        },
+        {
+            "object": "page",
+            "id": "bb3c287b-2df4-4b26-b1e0-7f6d79ab1a88",
+            "created_time": "2024-04-08T01:27:00.000Z",
+            "last_edited_time": "2024-04-08T02:35:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "a27d0299-89b2-40c2-b40a-df833fdc89fb"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "bf687443-b55f-4707-a499-59f993389bd0"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Tag": {
+                    "id": "B_Zx",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4780aa63-a8a6-437e-ba77-3a2469fd0035",
+                            "name": "Git",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "Image": {
+                    "id": "D%3FXZ",
+                    "type": "files",
+                    "files": []
+                },
+                "Back": {
+                    "id": "FPK%3E",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Clone a remote repository",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Clone a remote repository",
+                            "href": null
+                        }
+                    ]
+                },
+                "Front": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "git clone <URL> <directory_name>",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "git clone <URL> <directory_name>",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/git-clone-URL-directory_name-bb3c287b2df44b26b1e07f6d79ab1a88",
+            "public_url": "https://gabrielserranomelo.notion.site/git-clone-URL-directory_name-bb3c287b2df44b26b1e07f6d79ab1a88"
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false,
+    "type": "page_or_database",
+    "page_or_database": {},
+    "request_id": "116bc1c0-fc19-40ce-b670-7fe9a1471975"
+}
