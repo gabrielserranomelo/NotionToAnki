@@ -46,7 +46,7 @@ def get_imageurls():
     image_urls = []
 
     for word in get_pages():
-        search_image = DDGS().images(
+        search_image = DDGS(timeout=20000).images(
             keywords=word,
             region="ge-ge",
             max_results=1,
@@ -55,8 +55,10 @@ def get_imageurls():
     
     return image_urls
 
+get_page = get_pages()
+get_urls = get_imageurls()
 
-final_dict = {zip(get_pages(), get_imageurls())}
+final_dict = {get_page[i]: get_urls[i] for i in range(len(get_page))}
 
 for word, url in final_dict:
     print(f"The key is {word}; the URL is {url}.")
